@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    NumberTriangle().createNumberTriangle(maxNumbers = 10)
 }
